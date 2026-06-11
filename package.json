@@ -19,5 +19,8 @@
   ],
   "files": [
     "*.json"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
