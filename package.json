@@ -1,0 +1,23 @@
+{
+  "name": "@hakatashi/oxlint-config",
+  "version": "0.1.0",
+  "description": "Koki Takahashi's shared oxlint configuration",
+  "main": "index.json",
+  "exports": {
+    ".": "./index.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakatashi/oxlint-config.git"
+  },
+  "author": "Koki Takahashi <hakatasiloving@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "oxlint",
+    "config",
+    "linting"
+  ],
+  "files": [
+    "*.json"
+  ]
+}
